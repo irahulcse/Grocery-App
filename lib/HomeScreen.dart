@@ -86,7 +86,7 @@ class home extends State<Home_screen> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.white,
-        title: Text("Grocery store"),
+        title: Text("SAHOOO"),
         actions: <Widget>[
           IconButton(
             tooltip: 'Search',
